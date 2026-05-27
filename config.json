@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymenteonnect",
+        "uuid": 22872603,
+        "checksum": "o0bc3g"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
